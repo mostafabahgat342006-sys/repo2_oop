@@ -17,7 +17,12 @@ internal class Program
 
 
 
+             Q2) 
 
+                 a- shipment
+                 b- ExpressShipment
+                 c- TrackingCode is inherited by ExpressShipment.
+                 d- Inheritance avoids code duplication, improves code reuse, easier to maintain.
 
          */
 
